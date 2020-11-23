@@ -5,7 +5,7 @@ In order to run the application download the repo and navigate to root directory
 
 ##Installation guide --Please use virtualenv  
 
-'''
+```
 $virtualenv env --python=python3
 #source venv/bin/activate
 -env$ pip install Flask-RESTful
@@ -14,4 +14,4 @@ $virtualenv env --python=python3
 -env$cd code #This actually contains the code
 -env$ python app.py
 
-'''
+```
