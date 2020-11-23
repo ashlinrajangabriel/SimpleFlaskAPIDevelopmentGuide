@@ -1,0 +1,10 @@
+Please use virtualenv 
+
+$virtualenv env --python=python3
+#source venv/bin/activate
+-env$ pip install Flask-RESTful
+-env$ pip freeze
+-env$ mkdir code
+-env$cd code #This actually contains the code
+-env$ python app.py
+
